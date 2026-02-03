@@ -1,0 +1,1 @@
+# qa_guru0_python_git
