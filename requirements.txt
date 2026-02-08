@@ -1,2 +1,5 @@
-pytest~=9.0.2
-allure-pytest==2.9.45
+pytest == 9.0.2
+selene == 2.0.0rc5
+selenium == 4.40.0
+allure-pytest == 2.15.3
+
